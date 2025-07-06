@@ -38,7 +38,5 @@ The result is a smooth, differentiable approximation of the solution that closel
 | Smooth Source Term | tanh | ~376 | ≤ 1e-5 |
 | Discontinuous Source | tanh | ~1774 | ≤ 1e-5 |
 
-The model consistently outperforms naive PINNs in sharp-gradient scenarios and matches FEM results with minimal overhead.
 
-## 📁 Repository Structure
 
